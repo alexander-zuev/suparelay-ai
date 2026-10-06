@@ -16,7 +16,7 @@
       "interface": {
         "displayName": "Suparelay",
         "shortDescription": "International calls from chat",
-        "longDescription": "Make international calls from ChatGPT. Suparelay calls any phone number in the world from your browser, with no app to install and no SIM card. The person you call answers on their normal phone.\n\nAsk ChatGPT to call a phone number or a country. Suparelay shows a card with the price per minute, the country, and the type of line. For a country, the card shows the landline and mobile prices.\n\nTap Call. The Suparelay dialer opens in your browser with the number ready, and you talk.\n\nYou need no account to ask. To call, you sign in on suparelay.app.",
+        "longDescription": "Make international calls from ChatGPT. Suparelay calls any phone number in the world from your browser, with no app to install and no SIM card. The person you call answers on their normal phone.\n\nAsk ChatGPT to call a phone number or a country. Suparelay shows a card with the country, the type of line, and a Call button. For a country, the card covers landlines and mobiles.\n\nTap Call. The Suparelay dialer opens in your browser with the number ready, and you talk.\n\nYou need no account to ask. To call, you sign in on suparelay.app.",
         "developerName": "Kollektiv LLC",
         "category": "Communication",
         "capabilities": [
