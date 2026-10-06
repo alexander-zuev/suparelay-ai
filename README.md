@@ -49,7 +49,7 @@ Both tools are read-only. The call itself happens on suparelay.app.
 ## Building the ChatGPT ZIP
 
 ```sh
-cd chatgpt && zip -r ../suparelay-chatgpt.zip .
+cd chatgpt && zip -r -X ../suparelay-chatgpt.zip plugin.json mcp.json assets -x '*.DS_Store'
 ```
 
 Upload `suparelay-chatgpt.zip` at [platform.openai.com/plugins](https://platform.openai.com/plugins). Git ignores the ZIP.
