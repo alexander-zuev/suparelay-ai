@@ -16,7 +16,7 @@
       "interface": {
         "displayName": "Suparelay",
         "shortDescription": "International calls from chat",
-        "longDescription": "Make international calls from ChatGPT. Suparelay calls any phone number in the world from your browser, with no app to install and no SIM card. The person you call answers on their normal phone.\n\nAsk ChatGPT to call a phone number or a country. Suparelay shows a card with the price per minute, the country, and the type of line. For a country, the card shows the landline and mobile prices.\n\nTap Call. The Suparelay dialer opens in your browser with the number ready, and you talk.\n\nYou need no account to see a price. To call, you sign in on suparelay.app and pay per minute from prepaid credit.",
+        "longDescription": "Make international calls from ChatGPT. Suparelay calls any phone number in the world from your browser, with no app to install and no SIM card. The person you call answers on their normal phone.\n\nAsk ChatGPT to call a phone number or a country. Suparelay shows a card with the price per minute, the country, and the type of line. For a country, the card shows the landline and mobile prices.\n\nTap Call. The Suparelay dialer opens in your browser with the number ready, and you talk.\n\nYou need no account to ask. To call, you sign in on suparelay.app.",
         "developerName": "Kollektiv LLC",
         "category": "Communication",
         "capabilities": [
@@ -34,12 +34,7 @@
           "How much per minute to call a landline in Germany with Suparelay?"
         ],
         "composerIcon": "./assets/icon.png",
-        "logo": "./assets/logo.png",
-        "screenshots": [
-          "./assets/card-light.png",
-          "./assets/card-dark.png",
-          "./assets/card-phone.png"
-        ]
+        "logo": "./assets/logo.png"
       },
       "review": {
         "test_cases": {
@@ -94,7 +89,7 @@
         "commerce_description": "Suparelay does not sell or take payment in the chat; calls and top-ups happen on suparelay.app."
       },
       "publication": {
-        "release_notes": "Initial release: call prices for a phone number or a country, with a Call link to the Suparelay browser dialer."
+        "release_notes": "Initial release: make international calls from ChatGPT. Ask about a phone number or a country, then tap Call to talk from the Suparelay browser dialer."
       }
     }
   }
